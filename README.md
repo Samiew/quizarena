@@ -3,7 +3,8 @@
 Real-time multiplayer quiz built with Node.js, Express, and Socket.io. Players join live, answer questions, and see instant score + leaderboard updates in sync.
 
 ## Live Demo
-(Deploy link coming soon)
+
+The production link will be added after the web service is deployed.
 
 ## Tech Stack
 - Node.js
@@ -13,4 +14,8 @@ Real-time multiplayer quiz built with Node.js, Express, and Socket.io. Players j
 
 ## Local Run
 ```bash
-node server.js
+npm install
+npm start
+```
+
+Then open `http://localhost:4000`.
